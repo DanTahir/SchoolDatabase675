@@ -16,7 +16,7 @@ A random database topic will be assigned by the instructor to all the students. 
 
 |       Topic Description        |              Date Assigned                 |
 | ------------------------------ | ------------------------------------------ |
-| Online Retail Store Database   |                  2/5/2024                  |
+| School Management System       |                  2/5/2024                  |
 
 
 All the work in this course is divided into five milestones which in total are worth 50% of your final grade in this course 
